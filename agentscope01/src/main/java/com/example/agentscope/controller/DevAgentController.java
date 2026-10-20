@@ -11,6 +11,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Flux;
 
+/**
+ * HarnessAgent：应用入口和工程化包装
+ * ReActAgent：推理与行动循环
+ * Toolkit：工具注册、Schema 暴露和工具执行
+ */
 @RestController
 @RequestMapping("/dev-agent")
 public class DevAgentController {
