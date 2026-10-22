@@ -17,6 +17,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>agentscope01</module>
+        <module>agentscope02</module>
     </modules>
 
     <properties>
