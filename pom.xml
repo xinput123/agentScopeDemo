@@ -18,6 +18,7 @@
     <modules>
         <module>agentscope01</module>
         <module>agentscope02</module>
+        <module>agentscope03</module>
     </modules>
 
     <properties>
